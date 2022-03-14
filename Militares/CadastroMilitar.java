@@ -18,7 +18,7 @@ public class CadastroMilitar{
                 System.out.println("Não pode progredir");
             }
         }
-        System.out.println("--------------------------------------------");
+        System.out.println("\n");
     }
     
     public void realizarProgressao(){
